@@ -7,10 +7,10 @@ body{
     align-items: center;
     height: 700px;
     margin: 0;
-    font-size: medium;
 }
 
 button{
 background-color: rgb(255, 245, 98);
 color: rgb(0, 0, 0);
+font-family: "Handjet", sans-serif;
 }
